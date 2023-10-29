@@ -1,4 +1,4 @@
-import{c as a,r as o,m as e}from"./render-template.9e9dac11.js";import{u as l}from"./hoisted.50f1bad7.js";const n=`<h2 id="6-types-of-arrow-functions">6 Types Of Arrow Functions</h2>
+import{c as a,r as o,m as e}from"./render-template.09255677.js";import{u as l}from"./hoisted.1f25d9b5.js";const n=`<h2 id="6-types-of-arrow-functions">6 Types Of Arrow Functions</h2>
 <h3 id="no-parameters">No parameters</h3>
 <p>If The Function takes no parameters, you use empty parentheses.</p>
 <pre class="astro-code dracula" style="background-color: #282A36; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0"><code><span class="line"><span style="color: #FF79C6">const</span><span style="color: #F8F8F2"> </span><span style="color: #50FA7B">greet</span><span style="color: #F8F8F2"> </span><span style="color: #FF79C6">=</span><span style="color: #F8F8F2"> () </span><span style="color: #FF79C6">=></span><span style="color: #F8F8F2"> </span><span style="color: #E9F284">"</span><span style="color: #F1FA8C">Hello World!</span><span style="color: #E9F284">"</span><span style="color: #F8F8F2">;</span></span>

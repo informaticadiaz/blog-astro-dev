@@ -1,4 +1,4 @@
-import{c as i,r as n,m as s}from"./render-template.9e9dac11.js";import{u as a}from"./hoisted.50f1bad7.js";const t=`<h2 id="ai-coding-assistant">AI coding assistant</h2>
+import{c as i,r as n,m as s}from"./render-template.09255677.js";import{u as a}from"./hoisted.1f25d9b5.js";const t=`<h2 id="ai-coding-assistant">AI coding assistant</h2>
 <p>AI Tools Every Developer Needs To try</p>
 <h3 id="sourcegraph"><a href="https://about.sourcegraph.com/cody">Sourcegraph</a></h3>
 <p>Sourcegraph’s Cody is the next generation of Github Copilot. It can understand your entire codebase, code graphs, and company documentation.</p>

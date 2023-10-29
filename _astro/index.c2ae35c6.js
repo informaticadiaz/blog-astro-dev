@@ -1,4 +1,4 @@
-import{c as a,r as t,m as l}from"./render-template.9e9dac11.js";import{u as n}from"./hoisted.50f1bad7.js";const s=`<h2 id="css-attribute-selectors">CSS Attribute Selectors</h2>
+import{c as a,r as t,m as l}from"./render-template.09255677.js";import{u as n}from"./hoisted.1f25d9b5.js";const s=`<h2 id="css-attribute-selectors">CSS Attribute Selectors</h2>
 <p>The CSS attribute selectors target elements based on the presence or value of a given attribute.</p>
 <h3 id="attr"><code>[attr]</code></h3>
 <p>Selects elements with selectors target elements based on the presence or value of a given attribute.</p>

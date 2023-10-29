@@ -1,4 +1,4 @@
-import{c as n,r,m as l}from"./render-template.9e9dac11.js";import{u as s}from"./hoisted.50f1bad7.js";const e=`<p>NEO VIM</p>
+import{c as n,r,m as l}from"./render-template.09255677.js";import{u as s}from"./hoisted.1f25d9b5.js";const e=`<p>NEO VIM</p>
 <p>MOCIONES DE VIM
 D  = BORRAR
 P  = PEGAR

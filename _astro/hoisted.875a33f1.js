@@ -1,0 +1,1 @@
+import"./hoisted.1f25d9b5.js";const e=document.getElementById("to-top-btn"),n=document.getElementById("blog-hero");function c(t){t.forEach(o=>{e.dataset.show=(!o.isIntersecting).toString()})}e.addEventListener("click",()=>{document.documentElement.scrollTo({top:0,behavior:"smooth"})});const r=new IntersectionObserver(c);r.observe(n);

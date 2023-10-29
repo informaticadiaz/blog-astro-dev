@@ -1,4 +1,4 @@
-import{c as a,r as l,m as o}from"./render-template.9e9dac11.js";import{u as e}from"./hoisted.50f1bad7.js";const s=`<h1 id="css-layout-horizontal-and-vertical-align">CSS Layout Horizontal and Vertical Align</h1>
+import{c as a,r as l,m as o}from"./render-template.09255677.js";import{u as e}from"./hoisted.1f25d9b5.js";const s=`<h1 id="css-layout-horizontal-and-vertical-align">CSS Layout Horizontal and Vertical Align</h1>
 <p>In this lesson, we’ll study how to align elements horizontally, vertically and both horizontally, vertically and both horizontally and vertically.</p>
 <h2 id="horizontally">Horizontally</h2>
 <p>Here is how to horizontally align elements:</p>

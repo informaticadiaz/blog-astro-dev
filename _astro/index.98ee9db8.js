@@ -1,4 +1,4 @@
-import{c as s,r as a,m as o}from"./render-template.9e9dac11.js";import{u as t}from"./hoisted.50f1bad7.js";const e=`<h2 id="css-combinatiors">CSS combinatiors</h2>
+import{c as s,r as a,m as o}from"./render-template.09255677.js";import{u as t}from"./hoisted.1f25d9b5.js";const e=`<h2 id="css-combinatiors">CSS combinatiors</h2>
 <p>In CSS, we can combine selectors to make fine-grained selections.</p>
 <p>CSS has several ways to select elements based on how they are related to one another.</p>
 <p>A CSS combinator expresses and explains the relationship between selectors.</p>

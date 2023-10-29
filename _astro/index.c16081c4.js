@@ -1,4 +1,4 @@
-import{c as o,r,m as n}from"./render-template.9e9dac11.js";import{u as i}from"./hoisted.50f1bad7.js";const e=`<h2 id="generar-alias-para-directorios">generar alias para directorios</h2>
+import{c as o,r,m as n}from"./render-template.09255677.js";import{u as i}from"./hoisted.1f25d9b5.js";const e=`<h2 id="generar-alias-para-directorios">generar alias para directorios</h2>
 <p>editar archivo bashrc</p>
 <pre class="astro-code dracula" style="background-color: #282A36; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0"><code><span class="line"><span style="color: #50FA7B">sudo</span><span style="color: #F8F8F2"> </span><span style="color: #F1FA8C">nano</span><span style="color: #F8F8F2"> </span><span style="color: #F1FA8C">~/.bashrc</span></span></code></pre>
 <p>agregar las lineas necesarias al final del archivo, justo antes de export PS1=’> ’</p>

@@ -1,4 +1,4 @@
-import{c as n,r as l,m as o}from"./render-template.9e9dac11.js";import{u as t}from"./hoisted.50f1bad7.js";const s=`<h2 id="css-pseudo-elements">CSS pseudo-elements</h2>
+import{c as n,r as l,m as o}from"./render-template.09255677.js";import{u as t}from"./hoisted.1f25d9b5.js";const s=`<h2 id="css-pseudo-elements">CSS pseudo-elements</h2>
 <p>A CSS pseudo-element is a keyword added to a selector that lets you style a specific part of the selected element(s).</p>
 <h2 id="syntax">Syntax</h2>
 <pre class="astro-code dracula" style="background-color: #282A36; overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;" tabindex="0"><code><span class="line"><span style="color: #F8F8F2">selector::pseudo-element {</span></span>
